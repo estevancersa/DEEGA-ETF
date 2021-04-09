@@ -1,5 +1,5 @@
 
-# Market Sentiment ETF project #
+# D.E.E.G.A. Sentiment ETF #
 
 ## Project Outline ##
 
@@ -24,8 +24,8 @@ ETF - Prospectus
 	PDF document explaining Fund characteristics
 	Rebalancing of the portfolio is based on ETF manager discretion, based on data availability
 
-ETF - Backtesting
-	No clear path yet, dependent on data results
+ETF - Benchmarking
+	Compare to other sources of analysis, as it is not possible to backtest with the amount of data that we have. No clear path yet, dependent on data results
 
 ETF - performance and results 
 	No clear path yet, dependent on data results
