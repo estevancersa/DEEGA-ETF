@@ -33,6 +33,7 @@ ETF - performance and results
 ## 2.0 Tools used
 
 ```
+first Part
 pip install tweepy
 pip install yfinance 
 pip install -U python-dotenv
@@ -44,11 +45,21 @@ pip install requests
 pip install datetime
 pip install alpaca-trade-api
 pip install pandas
+News API
+	Vader Model
+	BERT model
+Second Part
+
 ```
 ## 3. Description of the ETF / Model.
-	Stock picking propietary Model
-	
-	Portfolio management
+### a. Stock picking idea Generation propietary Model
+	Curated author feeds from Twitter, finds top stock with social sentiment
+
+### b. Portfolio management
+	Top 5 stocks selection, based on news sentiment 
+	News API
+	Vader Model
+	BERT model
 
 
 ## 4. Link to our code.
