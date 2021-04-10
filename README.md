@@ -46,5 +46,9 @@ pip install alpaca-trade-api
 pip install pandas
 ```
 ## 3. Description of the ETF / Model.
+	Stock picking propietary Model
+	
+	Portfolio management
+
 
 ## 4. Link to our code.
