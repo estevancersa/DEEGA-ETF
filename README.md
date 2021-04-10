@@ -1,7 +1,7 @@
 
 # D.E.E.G.A. Sentiment ETF #
 
-## Project Outline ##
+## 1.Project Outline
 
 3 months of data from news api, bloomberg api, and reddit api
 
@@ -30,3 +30,21 @@ ETF - Benchmarking
 ETF - performance and results 
 	No clear path yet, dependent on data results
 
+## 2.0 Tools used
+
+```
+pip install tweepy
+pip install yfinance 
+pip install -U python-dotenv
+pip install -U textblob
+pip install seaborn
+pip install matplotlib.pyplot
+pip install regex
+pip install requests
+pip install datetime
+pip install alpaca-trade-api
+pip install pandas
+```
+## 3. Description of the ETF / Model.
+
+## 4. Link to our code.
