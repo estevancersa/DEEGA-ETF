@@ -51,7 +51,7 @@ News API
 Second Part
 
 ```
-## 3. Description of the ETF / Model.
+## 3. Prospectus of the ETF / Model.
 ### a. Stock picking idea Generation propietary Model
 	Curated author feeds from Twitter, finds top stock with social sentiment
 
